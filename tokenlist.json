@@ -1,0 +1,30 @@
+{
+  "name": "RFDELTA Token List",
+  "timestamp": "2025-12-20T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "rfdelta",
+    "rfdelta-token",
+    "rfdelta-erc20"
+  ],
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/RFDELTA/rfdelta-token/main/assets/logo-256.png",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x9603661E2262FA80B52f21090961BcB7CE04E3ab",
+      "name": "RFDELTA Token",
+      "symbol": "RFDELTA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/RFDELTA/rfdelta-token/main/assets/logo-256.png",
+      "extensions": {
+        "website": "https://rfdelta.com/rfdelta-token",
+        "etherscan": "https://etherscan.io/address/0x9603661E2262FA80B52f21090961BcB7CE04E3ab"
+      }
+    }
+  ]
+}

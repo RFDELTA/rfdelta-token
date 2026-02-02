@@ -12,7 +12,7 @@
     "rfdelta-erc20"
   ],
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/RFDELTA/rfdelta-token/main/assets/logo-256.png",
+  "logoURI": "https://peach-calm-anaconda-20.mypinata.cloud/ipfs/bafybeihzts5rsoctetewo7r6xqjm622runaorbd5p6ys4snibap54qlsza/assets/logo-256.png",
   "tokens": [
     {
       "chainId": 1,
@@ -20,9 +20,9 @@
       "name": "RFDELTA Token",
       "symbol": "RFDELTA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/RFDELTA/rfdelta-token/main/assets/logo-256.png",
+      "logoURI": "https://peach-calm-anaconda-20.mypinata.cloud/ipfs/bafybeihzts5rsoctetewo7r6xqjm622runaorbd5p6ys4snibap54qlsza/assets/logo-256.png",
       "extensions": {
-        "website": "https://rfdelta.com/rfdelta-token",
+        "website": "https://rfdelta.com",
         "etherscan": "https://etherscan.io/address/0x9603661E2262FA80B52f21090961BcB7CE04E3ab"
       }
     }

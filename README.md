@@ -12,7 +12,7 @@ Official token metadata and branding assets for the RFDELTA token.
 
 ## Token List
 Raw URL 
-`https://tokenlists.org/token-list?url=https://ipfs.io/ipfs/bafkreidui4zvq5ug2uwam5c3mh76kb7i6ijfafad6nrpdreffht6uj36xi`
+`https://ipfs.io/ipfs/bafkreidui4zvq5ug2uwam5c3mh76kb7i6ijfafad6nrpdreffht6uj36xi`
 
 ## Assets
 All official logos and banners are in `/assets`.
